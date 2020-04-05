@@ -1,2 +1,2 @@
 # Quarantaene
-Quarantäne Data South Tirol 4.4.2020
+Quarantäne Data South Tyrol 4.4.2020
